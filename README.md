@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=center> 
-  <img align=center ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-</p>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 
 ---
 
